@@ -17,12 +17,13 @@ The repository includes programs covering the following concepts:
 3. Deadlock
 4. Exception Handling
 5. Inheritance
-6. Input Handling
+6. Scanner Class
 7. Interfaces
 8. Inter-Thread Communication
-9. Methods
+9. Method Overloading
 10. Method Overriding
-11. Process and Thread Concepts
+11. Thread using extend and implements
+12. User Defined Package
 
 ## How to Run
 1. Install the Java Development Kit (JDK).
